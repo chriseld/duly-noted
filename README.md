@@ -9,4 +9,4 @@ This full-stack application allows the user to write, edit, and delete notes thr
 ## Deployment
 
 The page repository can be found at [the GitHub page](https://github.com/chriseld/duly-noted).
-The deployed application can be found at [Heroku](https://frozen-retreat-95510.herokuapp.com/).
+The deployed application can be found at [Heroku](https://safe-waters-03191.herokuapp.com/).
